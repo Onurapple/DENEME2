@@ -1,0 +1,19 @@
+.navbar1{
+    align-items: stretch;
+    background-color: black;
+    justify-content: center;
+    
+    
+}
+.nav{
+   justify-content: center; 
+   
+}
+
+.nav-item:hover{
+    background-color: cornflowerblue;
+}
+.nav-link{
+    font-size: 2rem;
+    padding: 20px ;
+}
